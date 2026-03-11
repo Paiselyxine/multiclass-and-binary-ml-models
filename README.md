@@ -5,12 +5,12 @@ Python machine learning projects demonstrating SVM, KNN, and Decision Tree model
 
 Machine Learning Classification Projects
 
-**Description
-**
+**Description**
+
 This repository contains two classification projects demonstrating Python machine learning workflows, including preprocessing, model training, evaluation, and visualization of results using SVM, K-Nearest Neighbors, and Decision Trees.
 
-**
-Projects**
+
+**Projects**
 
 Multiclass Vegetation Hollow Classification
 
