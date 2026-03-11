@@ -20,11 +20,12 @@ Task: Predict tree species from environmental and tree features.
 
 Models: KNN, Decision Tree, SVM
 
-Files:
+  Files:
 
-vegetation_ml_models.ipynb – full workflow
+  vegetation_ml_models.ipynb – full workflow
 
-data/updated_vegetation_hollow_data.csv – preprocessed dataset
+  data/updated_vegetation_hollow_data.csv – preprocessed dataset
+  
 
 **Binary Appliance Star Rating Classification**
 
@@ -34,11 +35,11 @@ Task: Predict whether an appliance has a star rating above 3.
 
 Models: SVM, KNN, Decision Tree
 
-Files:
+  Files:
 
-appliance_ml_models.ipynb – full workflow
+  appliance_ml_models.ipynb – full workflow
 
-data/updated_binary_data.csv – preprocessed dataset
+  data/updated_binary_data.csv – preprocessed dataset
 
 **How to Run**
 
