@@ -1,0 +1,125 @@
+siteID,latitude,longitude,plotId,startVisitDate,endVisitDate,tagNumber,species,treeAlivestatus,diameterAtBreastHeight,treeForm,treeHeight,numberOfHollows,hollowHeight,hollowLength,hollowWidth,hollowLocation,hollowType,aspect	Length of an individual hollow
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500024,C. gummifera,a,482,2,17.6,1,12.1,12,12,secondary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500024,C. gummifera,a,482,2,17.6,2,14.5,10,10,tertiary,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300243,C. gummifera,a,583,1,11,1,9,30,30,trunk,top,up
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300243,C. gummifera,a,583,1,11,2,9,35,30,primary,hole,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500008,C. intermedia,a,538,2,19,1,12.1,16,15,secondary,branch end,E
+Karawatha Peri-Urban,-27.62789,153.08807,C6,1/6/09,31/8/09,C600133,C. trachyphloia,a,572,2,17.8,2,3.5,12,4,Trunk,hole,S
+Karawatha Peri-Urban,-27.62789,153.08807,C6,1/6/09,31/8/09,C600133,C. trachyphloia,a,572,2,17.8,1,7.1,22,19,primary,hole,up
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300430,C. trachyphloia,d,402,6,16.5,2,5,18,11,trunk,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300430,C. trachyphloia,d,402,6,16.5,1,7.6,12,10,trunk,hole,NNW
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600049,C.citridora,a,472,1,17.2,1,5.6,10,12,Trunk,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200028,C.henrii,a,1035,1,30,1,22,45,25,primary,hole,NW
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200107,C.henrii,a,586,1,12,1,5,6,6,secondary,branch butt,NW
+Karawatha Peri-Urban,-27.62789,153.08807,A7,1/6/09,31/8/09,A700008,dead,d,408,4,12,2,6,35,35,secondary,branch end,SW
+Karawatha Peri-Urban,-27.62789,153.08807,A7,1/6/09,31/8/09,A700008,dead,d,408,4,12,1,8,40,40,primary,branch end,SE
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800171,dead,d,610,5,18,1,14,15,15,primary,branch end,W
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800171,dead,d,610,5,18,2,16.5,20,20,secondary,branch end,NW
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800171,dead,d,610,5,18,3,14,16,16,secondary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800171,dead,d,610,5,18,4,14,14,14,secondary,branch end,NW
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800171,dead,d,610,5,18,4,16.5,20,20,secondary,branch end,NW
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800178,dead,a,399,6,14,1,6.9,40,25,trunk,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800178,dead,d,399,6,14,1,6.9,40,25,trunk,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300308,Dead,d,329,6,12.4,1,7.3,9,6,trunk,hole,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500001,Dead,d,768,5,16,1,13.9,15,15,secondary,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500001,Dead,d,768,5,16,2,14.9,36,15,primary,fissure,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500029,Dead,d,598,5,17,3,10.7,12,12,trunk,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500029,Dead,d,598,5,17,1,12,22,21,trunk,branch butt,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500029,Dead,d,598,5,17,2,13.5,17,17,primary,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500041,Dead,d,641,6,10.5,1,9.5,18,18,primary,branch butt,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500262,Dead,d,465,6,7,1,4.5,12,12,secondary,hollow branch,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D2,1/6/09,31/8/09,D200280,Dead,d,461,4,14.4,1,7.9,8,8,secondary,branch butt,SW
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300474,Dead,d,318,3,15.1,1,4.2,15,15,trunk,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300485,Dead,a,457,3,19,1,6.4,20,10,trunk,hole,SW
+Karawatha Peri-Urban,-27.62789,153.08807,D5,1/6/09,31/8/09,D500298,dead,d,665,6,19,1,15,5,5,secondary,hole,N
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200228,Dead,d,455,4,16.6,1,9.8,12,12,Primary,Branch end,N
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200274,Dead,d,447,4,12,1,6,12,16,Trunk,Branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500010,Dead,d,467,4,12,1,6,7,7,trunk,branch butt,E
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500211,dead,d,655,4,18.9,3,12.1,18,18,trunk,branch butt,SW
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500211,dead,d,655,4,18.9,1,12.8,18,18,trunk,branch butt,E
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500211,dead,d,655,4,18.9,2,15.5,19,17,primary,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500211,dead,d,655,4,18.9,4,15.6,18,18,primary,branch end,SE
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600333,Dead,d,364,4,12,1,8,45,15,primary,fissure,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300526,E. acemoides,a,810,1,20.7,1,5.1,27,7,trunk,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300526,E. acemoides,a,810,1,20.7,2,7.7,25,5,trunk,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300033,E. acemoides,a,866,2,30,2,18,17,17,secondary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300033,E. acemoides,a,866,2,30,1,21.8,17,17,secondary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,D5,1/6/09,31/8/09,D500315,E. acemoides,a,645,2,20.7,1,14.2,35,27,Primary,Branch end,E
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600045,E. acemoides,a,668,1,20,3,4.9,12,12,primary,branch butt,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600045,E. acemoides,a,668,1,20,5,14,16,7,secondary,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600045,E. acemoides,a,668,1,20,4,14.6,12,12,secondary,branch butt,NE
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600045,E. acemoides,a,668,1,20,1,17.2,11,11,secondary,branch butt,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600045,E. acemoides,a,668,1,20,2,18.5,11,11,secondary,branch butt,SE
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200237,E. acemoides,a,652,1,26,1,14.1,13,13,secondary,branch end,W
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600305,E. acemoides,a,725,2,19,1,9,30,30,primary,Branch end,N
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600305,E. acemoides,a,725,2,19,2,14.1,27,12,secondary,hole,N
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600130,E. baileyana,a,1146,2,23,1,12.1,27,27,primary,hollow branch,E
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600130,E. baileyana,a,1146,2,23,2,13.7,16,16,secondary,hollow branch,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D6,1/6/09,31/8/09,D600130,E. baileyana,a,1146,2,23,3,20,20,15,secondary,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300073,E. baileyana,a,634,2,25,1,13,20,20,primary,branch butt,S
+Karawatha Peri-Urban,-27.62789,153.08807,A8,1/6/09,31/8/09,A800160,E. carnea,a,419,2,14,1,11.5,30,30,trunk,top,N
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400004,E. carnea,a,486,1,17.7,1,6.3,17,17,Secondary,Branch end,W
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300469,E. carnea,a,498,1,20.3,1,12.3,10,10,secondary,branch end,SW
+Karawatha Peri-Urban,-27.62789,153.08807,E2,1/6/09,31/8/09,E200302,E. carnea,a,547,2,11.5,1,5,17,6,secondary,Hole,SE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500106,E. major,a,626,2,14,3,8.1,14,14,secondary,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500106,E. major,a,626,2,14,1,9.8,16,16,secondary,branch end,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500106,E. major,a,626,2,14,2,10.4,13,13,secondary,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500210,E. major,a,553,2,16.5,1,3.7,39,18,trunk,hole,S
+Karawatha Peri-Urban,-27.62789,153.08807,E1,1/6/09,31/8/09,E100154,E. microcorys,a,1323,2,22.6,1,13.9,12,16,secondary,branch end,NW
+Karawatha Peri-Urban,-27.62789,153.08807,E1,1/6/09,31/8/09,E100154,E. microcorys,a,1323,2,22.6,2,14.2,17,17,primary,branch butt,NNE
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300004,E. microcorys,a,720,2,15,2,6,22,22,secondary,hollow branch,NW
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300004,E. microcorys,a,720,2,15,1,8,17,11,trunk,hole,NW
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300081,E. microcorys,a,570,2,14,1,8,26,26,primary,branch butt,NE
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300081,E. microcorys,a,570,2,14,1,6.5,35,15,Trunk,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300218,E. microcorys,a,355,1,18,1,12.5,13,13,primary,branch butt,SW
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300227,E. microcorys,a,698,2,20,1,12,22,10,secondary,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300235,E. microcorys,a,831,2,29,1,4.5,25,25,primary,branch end,W
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300235,E. microcorys,a,831,2,29,2,9,17,17,trunk,branch butt,S
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300235,E. microcorys,a,831,2,29,3,13,40,40,primary,branch end,W
+Karawatha Peri-Urban,-27.62789,153.08807,E3,1/6/09,31/8/09,E300235,E. microcorys,a,831,2,29,4,20,16,16,tertiary,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300304,E. planchoniana,a,1086,2,20,1,9.3,21,19,primary,hole,SW
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300304,E. planchoniana,a,1086,2,20,2,10,18,18,secondary,branch butt,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300304,E. planchoniana,a,1086,2,20,3,11,30,30,secondary,branch butt,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400283,E. planchoniana,a,1068,2,12.5,1,4,30,30,primary,hollow branch,N
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400283,E. planchoniana,a,1068,2,12.5,2,10,25,25,primary,hollow branch,W
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300411,E. planchoniana,a,768,2,20.2,1,8,11,11,secondary,hole,NNE
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300416,E. planchoniana,d,488,3,19.3,2,9.9,25,5,secondary,bayonete,N
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300416,E. planchoniana,d,488,3,19.3,1,11.5,30,6,secondary,bayonete,W
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300416,E. planchoniana,d,488,3,19.3,4,15,12,12,secondary,hole,NNW
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300416,E. planchoniana,d,488,3,19.3,3,20,9,9,tertiary,branch end,N
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300440,E. planchoniana,a,805,2,21.1,3,12,12,12,tertiary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300440,E. planchoniana,a,805,2,21.1,1,14.2,15,15,secondary,hole,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D3,1/6/09,31/8/09,D300440,E. planchoniana,a,805,2,21.1,2,14.7,15,15,secondary,hole,SE
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600021,E. propinqua,a,825,2,23,3,13.5,12,13,secondary,branch end,E
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600021,E. propinqua,a,825,2,23,2,15.5,25,25,primary,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,F6,1/6/09,31/8/09,F600021,E. propinqua,a,825,2,23,1,21,27,27,secondary,hollow branch,N
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400074,E. racemosa,a,580,1,24,1,11.5,10,10,secondary,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500079,E. racemosa,a,1091,1,23.5,2,7.6,27,27,trunk,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500079,E. racemosa,a,1091,1,23.5,3,15.5,27,25,secondary,branch end,SW
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500079,E. racemosa,a,1091,1,23.5,4,16.5,30,30,secondary,branch end,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500079,E. racemosa,a,1091,1,23.5,1,17,21,21,secondary,branch end,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500079,E. racemosa,a,1091,1,23.5,5,18,16,16,secondary,branch end,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C6,1/6/09,31/8/09,C600001,E. racemosa,a,801,1,19.7,1,8.5,6,6,secondary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,C6,1/6/09,31/8/09,C600108,E. racemosa,a,904,2,24.5,1,19.9,13,13,secondary,branch butt,E
+Karawatha Peri-Urban,-27.62789,153.08807,C6,1/6/09,31/8/09,C600243,E. racemosa,a,552,1,18.5,1,11.4,17,17,Trunk,Branch butt,NW
+Karawatha Peri-Urban,-27.62789,153.08807,E4,1/6/09,31/8/09,E400095,E. racemosa,a,551,1,16.6,1,7,20,16,primary,hole,SW
+Karawatha Peri-Urban,-27.62789,153.08807,E4,1/6/09,31/8/09,E400219,E. racemosa,a,814,2,17.5,2,8,16,16,primary,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,E4,1/6/09,31/8/09,E400219,E. racemosa,a,814,2,17.5,1,10,17,17,primary,branch butt,N
+Karawatha Peri-Urban,-27.62789,153.08807,E4,1/6/09,31/8/09,E400219,E. racemosa,a,814,2,17.5,3,12,15,15,secondary,hole,N
+Karawatha Peri-Urban,-27.62789,153.08807,E4,1/6/09,31/8/09,E400224,E. racemosa,a,916,2,16,1,10,15,10,secondary,hollow branch,SW
+Karawatha Peri-Urban,-27.62789,153.08807,G5,1/6/09,31/8/09,G500245,E. racemosa,a,560,1,15,1,6.5,5,5,trunk,branch butt,E
+Karawatha Peri-Urban,-27.62789,153.08807,B5,1/6/09,31/8/09,B500184,E. resinifera,a,889,1,20,1,5,30,17,Trunk,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,B5,1/6/09,31/8/09,B500184,E. resinifera,a,889,1,20,2,9,10,7,Trunk,hole,W
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300145,E. resinifera,a,482,2,19,1,8.3,15,12,trunk,hole,S
+Karawatha Peri-Urban,-27.62789,153.08807,C3,1/6/09,31/8/09,C300319,E. resinifera,a,454,2,19.7,1,9,13,9,secondary,hole,S
+Karawatha Peri-Urban,-27.62789,153.08807,D5,1/6/09,31/8/09,D500378,E. resinifera,mostly dead,543,5,13.9,1,10.7,30,20,trunk,hole,SE
+Karawatha Peri-Urban,-27.62789,153.08807,E5,1/6/09,31/8/09,E500043,E. tereticornis,a,460,1,20,1,10.2,5,5,trunk,hole,E
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400399,E. tindaliae,a,613,2,18.9,1,9.7,13,13,trunk,hole,NW
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400399,E. tindaliae,a,613,2,18.9,2,10.3,15,15,trunk,branch butt,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400399,E. tindaliae,a,613,2,18.9,3,12.2,22,22,primary,hole,N
+Karawatha Peri-Urban,-27.62789,153.08807,C4,1/6/09,31/8/09,C400399,E. tindaliae,a,613,2,18.9,4,12.2,22,22,primary,hole,NE
+Karawatha Peri-Urban,-27.62789,153.08807,C5,1/6/09,31/8/09,C500066,E. tindaliae,a,403,1,18,1,11,12,12,secondary,branch butt,SW
+Karawatha Peri-Urban,-27.62789,153.08807,D2,1/6/09,31/8/09,D200049,E. tindaliae,a,548,1,20,1,14.4,14,14,primary,hollow branch,W
+Karawatha Peri-Urban,-27.62789,153.08807,D2,1/6/09,31/8/09,D200051,E. tindaliae,a,332,1,17,1,8.5,11,11,primary,hole,SE
+Karawatha Peri-Urban,-27.62789,153.08807,D2,1/6/09,31/8/09,D200244,E. tindaliae,a,519,1,18.1,1,8,15,8,secondary,branch butt,W
+Karawatha Peri-Urban,-27.62789,153.08807,D2,1/6/09,31/8/09,D200271,E. tindaliae,a,684,1,23.5,1,16.5,17,12,secondary,hole,NW
