@@ -1,15 +1,16 @@
 # multiclass-and-binary-ml-models
 Python machine learning projects demonstrating SVM, KNN, and Decision Tree models for multiclass and binary classification with real-world datasets.
 
-Title
+**Title**
 
 Machine Learning Classification Projects
 
-Description
-
+**Description
+**
 This repository contains two classification projects demonstrating Python machine learning workflows, including preprocessing, model training, evaluation, and visualization of results using SVM, K-Nearest Neighbors, and Decision Trees.
 
-Projects
+**
+Projects**
 
 Multiclass Vegetation Hollow Classification
 
@@ -25,7 +26,7 @@ vegetation_ml_models.ipynb – full workflow
 
 data/updated_vegetation_hollow_data.csv – preprocessed dataset
 
-Binary Appliance Star Rating Classification
+**Binary Appliance Star Rating Classification**
 
 Dataset: Energy Rating Data for Household Appliances
 
@@ -39,7 +40,7 @@ appliance_ml_models.ipynb – full workflow
 
 data/updated_binary_data.csv – preprocessed dataset
 
-How to Run
+**How to Run**
 
 Clone the repository.
 
