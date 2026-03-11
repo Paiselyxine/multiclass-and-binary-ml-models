@@ -26,6 +26,7 @@ Models: KNN, Decision Tree, SVM
 
   data/updated_vegetation_hollow_data.csv – preprocessed dataset
   
+  
 
 **Binary Appliance Star Rating Classification**
 
@@ -40,6 +41,8 @@ Models: SVM, KNN, Decision Tree
   appliance_ml_models.ipynb – full workflow
 
   data/updated_binary_data.csv – preprocessed dataset
+
+  
 
 **How to Run**
 
